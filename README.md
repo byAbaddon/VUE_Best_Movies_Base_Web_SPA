@@ -6,5 +6,7 @@ VUE_Best_Movies_Base_Web_SPA
 #### Support phone responsibility: YES
 ### Firebase Hosting channels: soon
 ### video intro: soon
-### imgae: soon
+### imgae:
+![2](https://github.com/user-attachments/assets/aabbe5c6-89db-4775-897f-78546641d9fc)
+
 
