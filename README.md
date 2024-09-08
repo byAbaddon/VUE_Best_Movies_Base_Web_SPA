@@ -3,6 +3,7 @@ VUE_Best_Movies_Base_Web_SPA
 
 # Best_Movies_Base
 #### Using: vue3 composition vuex-pinia and vuetify 3.0
+### Info: This site contains a curated collection of the best movies!
 #### Support phone responsibility: YES
 ### Firebase Hosting channels: soon
 ### video intro: soon
