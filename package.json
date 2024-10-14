@@ -2,6 +2,7 @@
   "name": "best_movie_site",
   "version": "1.0.0",
    "author": "by Abaddon",
+   "license": "MIT",
    "description": "A site with a curated collection of the most valuable movies.",
   "scripts": {
     "build": "vite build",
