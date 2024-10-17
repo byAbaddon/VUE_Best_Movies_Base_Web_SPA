@@ -11,7 +11,6 @@ https://the-best-movies-spa-v2.web.app
 https://youtu.be/dk_aw_1e4AY
 ### imgae:
 ![2](https://github.com/user-attachments/assets/aabbe5c6-89db-4775-897f-78546641d9fc)
-![3](https://github.com/user-attachments/assets/9404c415-03ac-46f3-b41c-52cbcd8eaa4b)
 ![2024-10-18 00 07 46 the-best-movies-spa-v2 web app 48aaa60571fe](https://github.com/user-attachments/assets/a444f387-77d8-484f-8a3b-4fe7fd5047e7)
 
 
