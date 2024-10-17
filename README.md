@@ -6,7 +6,7 @@ VUE_Best_Movies_Base_Web_SPA
 ### Info: This site contains a curated collection of the best movies!
 #### Support phone responsibility: YES
 ### Firebase Hosting channels:
-https://the-best-movies-spa.web.app
+https://the-best-movies-spa-v2.web.app
 ### video intro:
 https://youtu.be/dk_aw_1e4AY
 ### imgae:
