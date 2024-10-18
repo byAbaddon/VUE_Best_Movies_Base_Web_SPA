@@ -1,20 +1,16 @@
-# game_site
+# The_Best_Movies SPA
 
-This template should help get you started developing with Vue 3 in Vite.
+#### Using: vue3 composition, pinia, vuetify 3.0
+#### Support phone responsibility.
+### Firebase Hosting channels: 
+https://the-best-movies-spa-v2.web.app
+### video intro: 
+https://youtu.be/dk_aw_1e4AY
+### images:
+![2](https://github.com/user-attachments/assets/04616aad-d76d-4562-9497-d5c3f4d729d6)
+![2024-10-18 00 07 46 the-best-movies-spa-v2 web app 48aaa60571fe](https://github.com/user-attachments/assets/30e47c77-fec1-48ba-a5bd-4eada1c6e807)
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-yarn
-```
 
 ### Compile and Hot-Reload for Development
 
