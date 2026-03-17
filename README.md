@@ -3,7 +3,7 @@
 #### Using: vue3 composition, pinia, vuetify 3.0
 #### Support phone responsibility.
 ### Firebase Hosting channels: 
-https://the-best-movies-spa-v2.web.app
+https://the-best-movies-spa-v2.firebaseapp.com
 ### video intro: 
 https://youtu.be/dk_aw_1e4AY
 ### images:
